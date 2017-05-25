@@ -1,4 +1,6 @@
-[![Circle CI](https://circleci.com/gh/AlexHenkel/amayali.svg?style=svg)](https://circleci.com/gh/AlexHenkel/amayali)
+# Meteor Boilerplate ES6
+
+This is an empty boilerplate of the official [Meteor Todos app](https://github.com/meteor/todos). Use this repo as a clear reference on how to create templates, collections, testing, etc. [My fork](https://github.com/AlexHenkel/todos) has the version at the time this boilerplate was created.
 
 ### Running the app
 

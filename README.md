@@ -1,6 +1,6 @@
 [![Circle CI](https://circleci.com/gh/AlexHenkel/amayali.svg?style=svg)](https://circleci.com/gh/AlexHenkel/amayali)
 
-#Amayali
+# Amayali
 
 Terapists on demand
 
